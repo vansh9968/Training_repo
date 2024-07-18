@@ -5,5 +5,9 @@ change on VanshBranch on local
 =======
 edit from github.
 Hello on local
+<<<<<<< HEAD
 >>>>>>> master
 <<<<<<< tester
+=======
+>>>>>>> master 123
+>>>>>>> VanshQA
