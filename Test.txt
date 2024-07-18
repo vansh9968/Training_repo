@@ -1,7 +1,0 @@
-/****************** hello*******************/
-Hello
-Yellow 123
-Green Green Green
-Yellow Yellow Yellow
-Blue Blue Blue 
-Red Red Red$$$$$$$$$$$$$$
