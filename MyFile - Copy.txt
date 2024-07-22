@@ -1,0 +1,11 @@
+my new file on master.
+<<<<<<< HEAD
+
+change on VanshBranch on local
+=======
+edit from github.
+Hello on local
+>>>>>>> master 123
+edit from github.
+Hello on local
+>>>>>>> master 123
